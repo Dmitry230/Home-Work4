@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6303420b-4ae9-4e81-8873-3ed619abef5e" name="Changes" comment="commited">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6303420b-4ae9-4e81-8873-3ed619abef5e" name="Changes" comment="fixed a bug">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731601708477</updated>
-      <workItem from="1731601709536" duration="1923000" />
+      <workItem from="1731601709536" duration="2273000" />
     </task>
     <task id="LOCAL-00001" summary="commited">
       <option name="closed" value="true" />
@@ -109,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731602126235</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commited">
+      <option name="closed" value="true" />
+      <created>1731671957742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731671957742</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed a bug">
+      <option name="closed" value="true" />
+      <created>1731672002504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731672002504</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commited" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited" />
+    <MESSAGE value="fixed a bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed a bug" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/if$Main.ic" NAME="Main Coverage Results" MODIFIED="1731601846402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
